@@ -1,2 +1,2 @@
-# Make-Ai-Receipt
+# Make-Ai-Receipt 🧾
 โปรเจคงานโดยใช้ Make ในการสกัดข้อมูลใบเสร็จ
